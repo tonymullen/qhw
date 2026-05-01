@@ -64,6 +64,8 @@ For this week's Exercise 3, read 'main.tex' in the HW01 directory in the Homewor
 
 ## Submission and grading
 
+Screenshots should be placed in the 'solution' directory in this directory.
+
 For The Google Qubit Game, submit the following (10 pts):
 
 * A screenshot of the game in the stage you reached
@@ -78,3 +80,5 @@ For The Qubit Factory game, submit the following (up to 130 pts):
 
 Note that your progress through The Qubit Factory is stored in your browser. If your local browser storage gets cleared or if you use a different browser, your progress and puzzle solutions will no longer appear. You can still do puzzles, but this is one reason
 why we need the solutions copy-pasted into a file for submission.
+
+For the LaTeX exercise, add your edited 'main.tex' and your generated 'main.pdf' files to the 'solution' directory. Note that generateing the 'main.pdf' file will automatically generate two additional files, 'main.log' and 'main.aux'. You can disregard these files, and they will not be tracked by Git as they are included in this repo's '.gitignore' file.
