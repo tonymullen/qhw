@@ -7,7 +7,15 @@ As always, successful completion of each puzzle counts for 9/10 points and a gol
 for 10/10 points. If you get stuck on a puzzle, spend some time away from it thinking about it and
 come back to it later. If you're still stuck, refer to the online walkthrough.
 
-## Exercise 2: Linear algebra practice
+## Exercise 2: Complex numbers
+
+For
+$$
+\frac{\alpha}{\beta}
+$$
+
+
+## Exercise 3: Linear algebra
 
 For
 $$
