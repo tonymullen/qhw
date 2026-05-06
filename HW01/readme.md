@@ -58,9 +58,9 @@ do not usually cover the Star Bonus requirement.
 
 In this class some homework exercises will be carried out in LaTeX. LaTeX is the standard for academic typesetting in computer science and other technical fields. (Nobody rights CS papers in MS Word.) LaTeX is an open-source academic/technical typesetting tool built upon the TeX tool set by Donald Knuth (the guy who introduced Big-O notation to computer science and also defined Big-Theta and Big-Omega notation, among other significant accomplishments). We will use LaTeX for math homework because it enables readable, well-typeset math, and also has good support for technical graphics, including quantum circuits.
 
-The homework starter '.tex' files will include examples of the kind of typesetting necessary to write the solutions. There is definitely a learning curve for LaTeX but once you get used to it you will find that for most technical writing it is far superior than most "what-you-see-is-what-you-get" (WYSIWYG) style editors like MS Word.
+The homework starter `.tex` files will include examples of the kind of typesetting necessary to write the solutions. There is definitely a learning curve for LaTeX but once you get used to it you will find that for most technical writing it is far superior than most "what-you-see-is-what-you-get" (WYSIWYG) style editors like MS Word.
 
-For this week's Exercise 3, read 'main.tex' in the HW01 directory in the Homework repository and
+For this week's Exercise 3, read `main.tex` in the HW01 directory in the Homework repository and
 
 ## Submission and grading
 
@@ -70,11 +70,10 @@ For this assignment, submit the following:
 
 * A screenshot of the Google Qubit Game in the stage you reached
 * A screenshot of the Qubit Factory *Level Select* screen showing your stars
-* A text file with your solutions for each exercise copy-pasted. To copy a solution in text format, press Ctrl-C over the main Quantum Factory puzzle area. You can then paste this in text form directly into a text file with Ctrl-V. A text-format solution can also be copy-pasted into the Quantum Factory puzzle editor. A text-format solution will look something like this:
+* A text (`.txt` or `.md`) file with your solutions for each exercise copy-pasted. To copy a solution in text format, press Ctrl-C over the main Quantum Factory puzzle area. You can then paste this in text form directly into a text file with Ctrl-V. A text-format solution can also be copy-pasted into the Quantum Factory puzzle editor. A text-format solution will look something like the code shown below. (Note that your progress through The Qubit Factory is stored in your browser. If your local browser storage gets cleared or if you use a different browser, your progress and puzzle solutions will no longer appear. You can still do puzzles, but this is one reason
+why we need the solutions copy-pasted into a file for submission.):
 
   ```{"name":"T.A: Wired","tag":"tut1","version":"v1.1.7","tiles":[55,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,75,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,23,22,22,22,22,22,22,22,25,-1,-1,-1,4,2,2,2,2,2,78,-1,-1,-1,-1,-1,-1,-1,-1,23,25,4,2,6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,23,12,25,-1,-1,-1,-1,-1,-1,-1,4,2,2,2,2,2,2,2,2,2,6,23,22,22,22,22,22,22,94,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,21,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,21,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,21,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,21,77,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,57],"gates":[[0,0,"cCreate","free",1,0,0,1,9],[0,13,"qCreate","free",3,0,0,1,9],[18,13,"cCreate","free",3,0,0,2,9],[18,0,"qCreate","free",1,0,0,2,9],[18,8,"compare","free",3,0.785398163397,0,4,-1],[18,5,"qCompare","free",0,0.392699081699,0,2,-1]]}```.
 
->Note that your progress through The Qubit Factory is stored in your browser. If your local browser storage gets cleared or if you use a different browser, your progress and puzzle solutions will no longer appear. You can still do puzzles, but this is one reason
-why we need the solutions copy-pasted into a file for submission.
 * Your edited 'main.tex' from the LaTeX exercise
 * Your generated 'main.pdf' file from the LaTeX exercise. Note that generateing the 'main.pdf' file will automatically generate two additional files, 'main.log' and 'main.aux'. You can disregard these files, and they will not be tracked by Git as they are included in this repo's '.gitignore' file.
