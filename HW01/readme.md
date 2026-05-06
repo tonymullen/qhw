@@ -60,11 +60,11 @@ In this class some homework exercises will be carried out in LaTeX. LaTeX is the
 
 The homework starter `.tex` files will include examples of the kind of typesetting necessary to write the solutions. There is definitely a learning curve for LaTeX but once you get used to it you will find that for most technical writing it is far superior than most "what-you-see-is-what-you-get" (WYSIWYG) style editors like MS Word.
 
-For this week's Exercise 3, read `main.tex` in the HW01 directory in the Homework repository and
+For this week's Exercise 3, read `hw_01.tex` in the HW01 directory in the Homework repository and follow the instructions to modify and compile it to produce the output `hw_01.pdf` file. Submit both files.
 
-## Submission and grading
+## Submission checklist
 
-All solution screenshots, code, and other files should be placed in the 'solution' directory in this directory.
+All solution screenshots, code, and other files should be placed in the `solutions` directory in this directory. Graders will *only* look in the `solutions` directory for your homework submission!
 
 For this assignment, submit the following:
 
@@ -75,5 +75,5 @@ why we need the solutions copy-pasted into a file for submission.):
 
   ```{"name":"T.A: Wired","tag":"tut1","version":"v1.1.7","tiles":[55,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,75,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,23,22,22,22,22,22,22,22,25,-1,-1,-1,4,2,2,2,2,2,78,-1,-1,-1,-1,-1,-1,-1,-1,23,25,4,2,6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,23,12,25,-1,-1,-1,-1,-1,-1,-1,4,2,2,2,2,2,2,2,2,2,6,23,22,22,22,22,22,22,94,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,21,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,21,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,21,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,21,77,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,57],"gates":[[0,0,"cCreate","free",1,0,0,1,9],[0,13,"qCreate","free",3,0,0,1,9],[18,13,"cCreate","free",3,0,0,2,9],[18,0,"qCreate","free",1,0,0,2,9],[18,8,"compare","free",3,0.785398163397,0,4,-1],[18,5,"qCompare","free",0,0.392699081699,0,2,-1]]}```.
 
-* Your edited 'main.tex' from the LaTeX exercise
-* Your generated 'main.pdf' file from the LaTeX exercise. Note that generateing the 'main.pdf' file will automatically generate two additional files, 'main.log' and 'main.aux'. You can disregard these files, and they will not be tracked by Git as they are included in this repo's '.gitignore' file.
+* Your edited 'hw_01.tex' from the LaTeX exercise
+* Your generated 'hw_01.pdf' file from the LaTeX exercise. Note that generateing the 'hw_01.pdf' file will automatically generate two additional files, 'hw_01.log' and 'hw_01.aux'. You can disregard these files, and they will not be tracked by Git as they are included in this repo's '.gitignore' file.
